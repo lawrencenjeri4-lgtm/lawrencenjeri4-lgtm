@@ -3,11 +3,9 @@
 </p>
 <div align="center">
 
-# ⚡ Lucid Dev ⚡
+### 🤖 AI & Automation Developer
 
-### 🤖 AI Explorer • 🚀 Builder • 🌙 Night Coder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+the+Future...;AI+%26+Automation+Developer;Telegram+Bot+Builder;Always+Learning+New+Things" />
+### 🇰🇪 Kenya • 🚀 Builder • 🌙 Night Coder
 
 </div>
 
