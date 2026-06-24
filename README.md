@@ -1,10 +1,3 @@
-████████╗ ██████╗ ██╗   ██╗
-██╔════╝██╔═══██╗██║   ██║
-█████╗  ██║   ██║██║   ██║
-██╔══╝  ██║   ██║╚██╗ ██╔╝
-███████╗╚██████╔╝ ╚████╔╝
-╚══════╝ ╚═════╝   ╚═══╝
-
 <div align="center">
 
 # ⚡ Lucid Dev ⚡
@@ -17,7 +10,7 @@
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
 ```yaml
 Name: Lucid Dev
@@ -36,7 +29,7 @@ Mission: Turn ideas into reality
 
 ---
 
-## ⚙️ Tech Arsenal
+# ⚙️ Tech Arsenal
 
 <div align="center">
 
@@ -51,38 +44,30 @@ Mission: Turn ideas into reality
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawrencenjeri4-lgtm&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencenjeri4-lgtm&layout=compact&theme=tokyonight"/>
-
 </p>
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=lawrencenjeri4-lgtm&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=lawrencenjeri4-lgtm&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🧠 Developer Philosophy
+# 🧠 Developer Philosophy
 
 ```javascript
 const LucidDev = {
     mindset: "Never Stop Learning",
     currentMode: "BUILDING",
-    
+
     dailyRoutine() {
         learn();
         code();
@@ -95,7 +80,7 @@ const LucidDev = {
 
 ---
 
-## 🌑 Terminal
+# 🌑 Terminal
 
 ```bash
 $ whoami
@@ -113,7 +98,17 @@ $ uptime
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Current Project
+
+```yaml
+Name: Kenya Ultra Bot
+Status: Active Development
+Focus: AI + Automation
+```
+
+---
+
+# 🌟 Current Interests
 
 🤖 AI-powered applications
 
@@ -125,34 +120,14 @@ $ uptime
 
 ---
 
-<div align="center">
+<p align="center">
+⚡ CODE • CREATE • DEPLOY • REPEAT ⚡
+</p>
 
-### ⚡ CODE • CREATE • DEPLOY • REPEAT ⚡
+<p align="center">
+<i>"The future belongs to those who build it."</i>
+</p>
 
-*"The future belongs to those who build it."*
-
-</div>
-![Visitors](https://komarev.com/ghpvc/?username=lawrencenjeri4-lgtm&label=Profile+Views&color=0e75b6&style=flat)
-
-Current Project:
-  Name: Kenya Ultra Bot
-  Status: Active Development
-  Focus: AI + Automation
-  
-
-"Code is not just instructions for machines,
-it's ideas brought to life."
-<!--
-**lawrencenjeri4-lgtm/lawrencenjeri4-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 "Code is not just instructions for machines,
-it's ideas brought to life."
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lawrencenjeri4-lgtm&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
