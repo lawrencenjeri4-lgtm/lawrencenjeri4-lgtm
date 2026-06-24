@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lawrencenjeri4-lgtm/lawrencenjeri4-lgtm/main/banner.png" alt="Lucid Dev Banner"/>
+</p>
 <div align="center">
 
 # ⚡ Lucid Dev ⚡
