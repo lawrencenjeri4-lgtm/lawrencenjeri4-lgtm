@@ -1,3 +1,10 @@
+████████╗ ██████╗ ██╗   ██╗
+██╔════╝██╔═══██╗██║   ██║
+█████╗  ██║   ██║██║   ██║
+██╔══╝  ██║   ██║╚██╗ ██╔╝
+███████╗╚██████╔╝ ╚████╔╝
+╚══════╝ ╚═════╝   ╚═══╝
+
 <div align="center">
 
 # ⚡ Lucid Dev ⚡
@@ -53,6 +60,9 @@ Mission: Turn ideas into reality
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencenjeri4-lgtm&layout=compact&theme=tokyonight"/>
 
 </p>
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lawrencenjeri4-lgtm&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
@@ -122,13 +132,22 @@ $ uptime
 *"The future belongs to those who build it."*
 
 </div>
+![Visitors](https://komarev.com/ghpvc/?username=lawrencenjeri4-lgtm&label=Profile+Views&color=0e75b6&style=flat)
 
+Current Project:
+  Name: Kenya Ultra Bot
+  Status: Active Development
+  Focus: AI + Automation
+  
+
+"Code is not just instructions for machines,
+it's ideas brought to life."
 <!--
 **lawrencenjeri4-lgtm/lawrencenjeri4-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 "Code is not just instructions for machines,
+it's ideas brought to life."
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
