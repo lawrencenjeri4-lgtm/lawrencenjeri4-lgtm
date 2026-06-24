@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lawrencenjeri4-lgtm/lawrencenjeri4-lgtm/main/banner.png" alt="Lucid Dev Banner"/>
+  <img src="file_00000000450471f4bee2dfebd54ff7dd.png" alt="Lucid Dev Banner"/>
 </p>
 <div align="center">
 
